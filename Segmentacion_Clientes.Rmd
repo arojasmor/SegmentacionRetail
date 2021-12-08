@@ -22,7 +22,7 @@ editor_options:
 <div class=text-justify>
 En general, la técnica de segmentación consiste en crear grupos o clústers con la característica de que las observaciones dentro de cada grupo son muy similares y, por el contrario, existen diferencias marcadas entre los grupos.
 
-La segmentación de clientes es de gran utilidad dentro de las empresas ya que permite agruparlos según las caractgerísticas que comparten, lo que a su vez permitirá, por ejemplo, al área de Marketing, diseñar campañas mejor focalizadas incrementando la probabilidad de éxito.
+La segmentación de clientes es de gran utilidad dentro de las empresas ya que permite agruparlos según las características que comparten, lo que a su vez permitirá, por ejemplo, al área de Marketing, diseñar campañas mejor focalizadas incrementando la probabilidad de éxito.
 
 Tomando en cuenta lo anterior, la segmentación de clientes es el proceso de dividirlos en grupos basados en características comunes para que las empresas puedan comercializar y focalizar sus recursos y esfuerzos de manera efectiva y adecuada a cada segmento. Por ejemplo, al analizar el historial de compras de clientes y ventas de productos, podemos agrupar productos y clientes en grupos que se comportan de manera similar y tomar decisiones comerciales basadas en datos que pueden mejorar una amplia gama de indicadores clave de rendimiento (KPI´s) de inventario y ventas.
 
