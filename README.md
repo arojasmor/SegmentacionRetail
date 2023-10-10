@@ -16,5 +16,5 @@ El algoritmo utilizado para hacer la segmentación fue **k-means**, por ser ráp
 La información que tenemos está incompleta en el sentido de que no tenemos las categorías de los productos vendidos, pues solo contamos con su descripción, por lo tanto, para obtener información más útil y procesable, fue necesario conseguir dichas categorías, ya que éstas nos pueden proporcionar información muy relevante sobre qué tipo de productos suele comprar un cliente, por lo que, los datos se obtuvieron de una de las tiendas retail más populares a nivel mundial: [walmart](https://gecrm.my.salesforce.com/sfc/p/#61000000ZKTc/a/4M0000000OSs/Wmj3VYVcRE4fLTPw7XVhddGbyXeHQqI5A4wWjJIei5A)
 
 
-
+Para ver el código abrir el archivo Rmd y en una página web pulsar [aquí](https://rpubs.com/arojasmor17/segmentacionretail).
 
